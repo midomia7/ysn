@@ -1,4 +1,4 @@
 {"results": [
-{"code": "ca-app-pub-5284546290031809/3901647377","type": "Banner"},
-{"code": "ca-app-pub-5284546290031809/9889946004","type": "Interstitial"},
-{"code": "ca-app-pub-5284546290031809/8576864337","type": "Rewarded"}]}
+{"code": "ca-app-pub-5284546290031809/xx","type": "Banner"},
+{"code": "ca-app-pub-5284546290031809/xx","type": "Interstitial"},
+{"code": "ca-app-pub-5284546290031809/xx","type": "Rewarded"}]}
