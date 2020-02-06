@@ -2,6 +2,6 @@
 
 {"code": "ca-app-pub-1841841532755482/8733978717","type": "Banner"},
 {"code": "ca-app-pub-1841841532755482/8732326329","type": "Interstitial"},
-{"code": "ca-app-pub-1841841532755482/2170787403","type": "Rewarded"}
+{"code": "ca-app-pub-1841841532755482/2170787403","type": "Rewarded"},
 {"code": "1","type": "Rate"}
 ]}
