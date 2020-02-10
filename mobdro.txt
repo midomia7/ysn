@@ -3,5 +3,5 @@
 {"code": "ca-app-pub-4429783375897426/2170169824","type": "Interstitial"},
 {"code": "1","type": "boolen"},
 {"code": "Unlock Premium Features","type": "header"},
-{"code": "You could unlock <strong>premium</strong> features by rating us <strong>5 stars</strong>.","type": "msg"}
+{"code": "You could unlock","type": "msg"}
 ]}
