@@ -1,6 +1,7 @@
 {"results": [
 {"code": "ca-app-pub-4429783375897426/5534151022","type": "Banner"},
 {"code": "ca-app-pub-4429783375897426/2170169824","type": "Interstitial"},
+{"code": "ca-app-pub-4429783375897426/9765233590","type": "Reward"},
 {"code": "1","type": "boolen"},
 {"code": "Unlock Premium Features","type": "header"},
 {"code": "You could unlock","type": "msg"}
