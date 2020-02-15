@@ -1,8 +1,8 @@
 {"results": [
-{"code": "ca-app-pub-8054815717074634/3234516662","type": "Banner"},
-{"code": "ca-app-pub-8054815717074634/9393850468","type": "Interstitial"},
-{"code": "ca-app-pub-8054815717074634/1052519533","type": "Reward"},
-{"code": "1","type": "boolen"},
-{"code": "Unlock Premium Features","type": "header"},
-{"code": "You could unlock <strong>premium</strong> features by rating us <strong>5 stars</strong>.","type": "msg"}
+{"code": "11","type": "Banner"},
+{"code": "00","type": "Interstitial"},
+{"code": "0","type": "Reward"},
+{"code": "0","type": "boolen"},
+{"code": "0","type": "header"},
+{"code": "11","type": "msg"}
 ]}
