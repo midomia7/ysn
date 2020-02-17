@@ -1,0 +1,4 @@
+{[
+{"code": "zz","type": "Banner"},
+{"code": "aa","type": "Interstitial"},
+{"code": "ee","type": "Rewarded"}]}
