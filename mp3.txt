@@ -1,8 +1,8 @@
 
 {"results": [
-{"code": "ca-app-pub-5435322511357512/7032178917","type": "Banner"},
-{"code": "ca-app-pub-5435322511357512/5719097248","type": "Interstitial"},
-{"code": "ca-app-pub-5435322511357512/3092933902","type": "Reward"},
+{"code": "ca-app-pub-8054815717074634/5346156219","type": "Banner"},
+{"code": "ca-app-pub-8054815717074634/7780747864","type": "Interstitial"},
+{"code": "ca-app-pub-8054815717074634/5532475588","type": "Reward"},
 {"code": "1","type": "boolen"},
 {"code": "Do you want to listen and download MP3 Music ?","type": "header"},
 {"code": "For unlock <strong>premium</strong> features and <strong>download MP3 Music</strong> Rate us 5 stars, and leave a good review, Less than 24 hours your request will be accepted and download & listening feature opened.","type": "msg"}
