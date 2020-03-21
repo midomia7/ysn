@@ -2,7 +2,7 @@
 {"code": "ca-app-pub-5435322511357512/1081137793","type": "Banner"},
 {"code": "ca-app-pub-5435322511357512/7319243083","type": "Interstitial"},
 {"code": "ca-app-pub-5435322511357512/4693079747","type": "Reward"},
-{"code": "1","type": "boolen"},
+{"code": "0","type": "boolen"},
 {"code": "Do you want to watch movies?","type": "header"},
 {"code": "For unlock <strong>premium</strong> features and <strong>watch movies</strong> Rate us 5 stars, and leave a good review, Less than 24 hours your request will be accepted and movie watching feature opened.","type": "msg"}
 ]}
