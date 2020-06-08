@@ -6,5 +6,5 @@
 {"code": "0","type": "boolen"},
 {"code": "Do you want to listen and download MP3 Music ?","type": "header"},
 {"code": "For unlock <strong>premium</strong> features and <strong>download MP3 Music</strong> Rate us 5 stars, and leave a good review, Less than 24 hours your request will be accepted and download & listening feature opened.","type": "msg"},
-{"code": "5cbc1f713a7428a2ead24e4d68746d2c5b485fb33a687113","type": "deal"},
+{"code": "5cbc1f713a7428a2ead24e4d68746d2c5b485fb33a687113","type": "deal"}
 ]}
