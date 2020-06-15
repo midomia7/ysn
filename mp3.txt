@@ -1,4 +1,4 @@
 
 {"results": [
-{"code": "ca-app-pub-5435322511357512/4261087442","type": "Banner"}
+{"code": "3657164","type": "Banner"}
 ]}
