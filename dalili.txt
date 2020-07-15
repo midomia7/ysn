@@ -1,0 +1,6 @@
+{"results": [
+{"code": "36573333322","type": "ban"},
+{"code": "11111111111","type": "inter"},
+{"code": "33333332","type": "rew"},
+{"code": "1","type": "scenario"}
+]}
